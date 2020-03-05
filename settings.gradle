@@ -1,0 +1,2 @@
+rootProject.name='costom_button'
+include ':app'
